@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331648856187",
+    "project_id": "video-upload-31e24",
+    "storage_bucket": "video-upload-31e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331648856187:android:e84350fc22500bf725f2de",
+        "android_client_info": {
+          "package_name": "com.example.uploadvideotofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331648856187-occ5pehcp8rc3q6445t5rom0ua52e3si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKE1FZh2STOnjLfW-6knSKwi6hIt-TZho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331648856187-occ5pehcp8rc3q6445t5rom0ua52e3si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

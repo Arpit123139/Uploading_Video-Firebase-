@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/add_bkg.xml" value="0.184" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/btn_bkg.xml" value="0.184" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/ic_add_white.xml" value="0.137" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/ic_launcher_background.xml" value="0.137" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/ic_video_library_white.xml" value="0.184" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/title_bkg.xml" value="0.184" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/title_enter_bkg.xml" value="0.184" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/toolbar_layout.xml" value="0.184" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/drawable/video_bkg.xml" value="0.184" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/layout/activity_add_video.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/layout/activity_videos.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/Arpit/AndroidStudioProjects/UploadVideoToFirebase/app/src/main/res/layout/row_video.xml" value="0.2713541666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
